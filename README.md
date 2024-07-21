@@ -5,9 +5,11 @@ As someone passionate about data science, I focus on extracting meaningful insig
 - 📫 How to reach me **mine.emektar@yahoo.com**
 
 <h3 align="left">📚  Education </h3>
-- Computer Engineering at KBU.
-- Data Science & Machine Learning Bootcamp Participant at Miuul.
-- Data Science Bootcamp Student at Veri Bilimi Okulu
+<ul>
+    <li>Computer Engineering at KBU.</li>
+    <li>Data Science & Machine Learning Bootcamp Participant at Miuul.</li>
+    <li>Data Science Bootcamp Student at Veri Bilimi Okulu.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
