@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mine</h1>
 
-
-- 🔭 I’m currently working on **Senior Specialist, Application Operations**
-
-- 🌱 I’m currently learning **Data Science and Machine Learning in Miuul**
+As someone passionate about data science, I focus on extracting meaningful insights from complex datasets. I have experience and interest in data analysis, machine learning, and artificial intelligence. My goal is to solve problems using data-driven approaches and make data-informed decisions. I am dedicated to continuous learning and enhancing my expertise in this rapidly evolving field.
 
 - 📫 How to reach me **mine.emektar@yahoo.com**
+
+- 📚  Education
+Computer Engineering at KBU.
+Data Science & Machine Learning Bootcamp Participant at Miuul.
+Data Science Bootcamp Student at Veri Bilimi Okulu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
